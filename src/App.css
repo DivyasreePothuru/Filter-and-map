@@ -1,0 +1,32 @@
+.app{
+  height: 100%;
+  width: 100%;
+}
+
+.users{
+ background-color: lightcoral;
+
+}
+
+.albums{
+
+  background-color: lightcyan;
+}
+
+.photos{
+ 
+  background-color: lightpink;
+}
+
+.ualbum{
+
+  background-color: blueviolet;
+}
+
+.uphotos{
+
+  background-color: blue;
+  display: inline-block;
+
+}
+
